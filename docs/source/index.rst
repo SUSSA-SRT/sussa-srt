@@ -6,6 +6,22 @@
 Welcome to SUSSA-SRT's documentation!
 =====================================
 
+This is the (in-development) developer documentation for the user support software at SRT
+
+Create a Docker container
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`arXiv:1409.3248 <http://arxiv.org/abs/1409.3248>`__
++ First of all: learn by example! Check out `a few <https://github.com/sussa-srt/basecontainer>`__ `examples <https://github.com/sussa-srt/pulsarcontainer>`__.
+
++ Create a new repository in the SUSSA-SRT organization
+
++ Create a file called ``Dockerfile`` with the right instructions (see examples above).
+
++ Then, log in to `Docker Hub <https://hub.docker.com>`__, click on Create->Create Automated build->Github button->SUSSA-SRT->repository
+
++ Wait for the build to use!
+
 Contents:
 
 .. toctree::
