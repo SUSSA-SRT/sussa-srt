@@ -12,6 +12,8 @@ This is the (in-development) developer documentation for the user support softwa
 
 `Explore our working Docker images <https://hub.docker.com/u/sussa/>`__
 
+Developer Documentation
+-----------------------
 Create a Docker container
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
