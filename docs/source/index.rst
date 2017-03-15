@@ -25,9 +25,7 @@ Create a Docker container
 
 + Then, log in to `Docker Hub <https://hub.docker.com>`__, click on Create->Create Automated build->Github button->SUSSA-SRT->repository
 
-+ Wait for the build to use!
-
-Contents:
++ Wait for the build to complete! Depending on the software packages you are compiling, it might take the time of a few coffees, including toasting and grinding each coffee bean.
 
 .. toctree::
    :maxdepth: 2
