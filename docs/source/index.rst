@@ -8,6 +8,10 @@ Welcome to SUSSA-SRT's documentation!
 
 This is the (in-development) developer documentation for the user support software at SRT
 
+`See our Github repository, submit issues, interact! <https://github.com/sussa-srt/>`__
+
+`Explore our working Docker images <https://hub.docker.com/u/sussa/>`__
+
 Create a Docker container
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
