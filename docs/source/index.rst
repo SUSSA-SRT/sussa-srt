@@ -23,8 +23,8 @@ Welcome to SUSSA-SRT's documentation!
 + NOD-3
 + PySDT - SRT Single Dish Tools (Imager, Curve calibrate)
 
-Data formats to be supported
-----------------------------
+Data formats (to be?) supported
+-------------------------------
 + nuragheFits
 + gildas
 + sdfits
