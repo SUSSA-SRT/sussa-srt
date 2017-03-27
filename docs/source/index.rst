@@ -12,7 +12,7 @@ Welcome to SUSSA-SRT's documentation!
 + GILDAS
 + Miriad (http://www.atnf.csiro.au/computing/software/miriad/)
 + GBTIDL
-+ Pulsar tools:
++ Pulsar tools: 
     - presto
     - tempo
     - tempo2
