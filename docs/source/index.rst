@@ -5,6 +5,12 @@
 
 Welcome to SUSSA-SRT's documentation!
 =====================================
+Planning tools
+--------------
++ CASTIA
++ basie (schedule creator)
++ Exposure Time Calculator
+
 (Quicklook) Analysis Software in antenna
 ----------------------------------------
 + CASA
@@ -21,7 +27,7 @@ Welcome to SUSSA-SRT's documentation!
     - dspsr
     - psrchive
 + NOD-3
-+ PySDT - SRT Single Dish Tools (Imager, Curve calibrate)
++ PySDT - SRT Single Dish Tools (Imager, Calibrated light curves)
 
 Data formats (to be?) supported
 -------------------------------
@@ -33,7 +39,7 @@ Data formats (to be?) supported
 Catalogs
 --------
 + psrcat
-+ Calibratori in flusso e polarizzazione.
++ Flux and polarization calibrators
 
 
 `Propose new software or data formats here! <https://goo.gl/forms/FPtCJnO3acdGksBA2>`__
