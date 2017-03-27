@@ -21,6 +21,7 @@ Welcome to SUSSA-SRT's documentation!
     - dspsr
     - psrchive
 + NOD-3
++ PySDT - SRT Single Dish Tools (Imager, Curve calibrate)
 
 Data formats to be supported
 ----------------------------
