@@ -34,16 +34,15 @@ Catalogs
 + psrcat
 + Calibratori in flusso e polarizzazione.
 
-Development guide
------------------
+Developer Documentation
+-----------------------
 This is the (in-development) developer documentation for the user support software at SRT
 
 `See our Github repository, submit issues, interact! <https://github.com/sussa-srt/>`__
 
 `Explore our working Docker images <https://hub.docker.com/u/sussa/>`__
 
-Developer Documentation
------------------------
+
 Create a Docker container
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
