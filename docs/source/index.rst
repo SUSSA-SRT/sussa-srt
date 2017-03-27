@@ -23,6 +23,7 @@ Planning tools
     - presto
     - tempo
     - tempo2
+    - PINT
     - sigproc
     - sixproc
     - dspsr
