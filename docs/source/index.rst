@@ -34,6 +34,9 @@ Catalogs
 + psrcat
 + Calibratori in flusso e polarizzazione.
 
+
+`Propose new software or data formats here! <https://goo.gl/forms/FPtCJnO3acdGksBA2>`__
+
 Developer Documentation
 -----------------------
 This is the (in-development) developer documentation for the user support software at SRT
