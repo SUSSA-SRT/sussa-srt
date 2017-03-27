@@ -35,6 +35,7 @@ Data formats (to be?) supported
 + gildas
 + sdfits
 + psrfits
++ HDF5?
 
 Catalogs
 --------
