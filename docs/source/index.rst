@@ -30,6 +30,7 @@ Planning tools
     - psrchive
 + NOD-3
 + PySDT - SRT Single Dish Tools (Imager, Calibrated light curves)
++ SuperMONGO
 
 Data formats (to be?) supported
 -------------------------------
