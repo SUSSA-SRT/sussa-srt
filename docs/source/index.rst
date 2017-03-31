@@ -28,6 +28,8 @@ Planning tools
     - sixproc
     - dspsr
     - psrchive
+    - cdmt ?
+    - accelsearch_gpu ?
 + NOD-3
 + PySDT - SRT Single Dish Tools (Imager, Calibrated light curves)
 + SuperMONGO
