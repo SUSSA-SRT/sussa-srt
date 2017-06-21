@@ -62,6 +62,8 @@ This is the (in-development) developer documentation for the user support softwa
 Create a Docker container
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
+<iframe src="https://docs.google.com/presentation/d/19Da8u8Fp8PbJ7-lVUTI5o5GXq4athh43f0Y7XByR-bM/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 + First of all: learn by example! Check out `a few <https://github.com/sussa-srt/basecontainer>`__ `examples <https://github.com/sussa-srt/pulsarcontainer>`__.
 
 + Create a new repository in the SUSSA-SRT organization
